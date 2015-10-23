@@ -25,4 +25,4 @@ a.sort()
 print (a)
 #a.sort sorted out the sting in in character order.
 
-print("Hello Adam")
+print("Thank you for using this programme!")
